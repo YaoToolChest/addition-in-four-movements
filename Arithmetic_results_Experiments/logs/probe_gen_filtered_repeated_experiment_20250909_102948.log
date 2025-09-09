@@ -1,0 +1,13 @@
+2025-09-09 10:29:48 - INFO - Starting multi-model experiment with direct generation filtering, repetitions, and confidence intervals...
+2025-09-09 10:29:48 - INFO - HyperParams: {"MODEL_NAMES": ["/root/autodl-tmp/llama", "/root/autodl-tmp/Mistral", "/root/autodl-tmp/Qwen2.5-Math-7B", "/root/autodl-tmp/AceMath", "/root/autodl-tmp/Qwen2.5-7B-Instruct"], "N_REPETITIONS": 5, "BASE_SEED": 42, "PROBE_TYPE": "linear", "PROBE_MLP_HIDDEN_DIM": 4096, "N_PROBE_EPOCHS": 5, "PROBE_LR": 0.001, "PROBE_BATCH_SIZE": 64, "TEST_SPLIT_RATIO": 0.2, "GENERATION_BATCH_SIZE": 500, "GEN_MAX_NEW_TOKENS": 3, "GEN_DO_SAMPLE": false, "TOK_MAX_LENGTH": 60, "TOK_PADDING_SIDE": "left", "SUM_RANGES_CONFIG": [{"label": "500-509", "start": 500, "count": 10}, {"label": "600-609", "start": 600, "count": 10}, {"label": "700-709", "start": 700, "count": 10}, {"label": "800-809", "start": 800, "count": 10}, {"label": "900-909", "start": 900, "count": 10}], "N_SAMPLES_PER_SUM": 400, "MIN_SAMPLES_PER_CLASS_FOR_PROBING": 5, "MIN_ADDEND_VAL": 100, "A_BOUND_LOW_FRAC": 0.25, "A_BOUND_HIGH_FRAC": 0.75, "MAX_ATTEMPTS_MULTIPLIER": 20, "ACTIVATIONS_BATCH_SIZE": 256, "LOG_TO_CONSOLE": false, "TQDM_DISABLED": true, "SUPPRESS_WARNINGS": true}
+2025-09-09 10:29:48 - INFO - ==================================================
+2025-09-09 10:29:48 - INFO - **High-Level Logic (with Repetitions & Confidence Intervals)**
+2025-09-09 10:29:48 - INFO - This version adds a repetition mechanism: the experiment runs multiple times (each with a different random seed),
+2025-09-09 10:29:48 - INFO - collects probe accuracy and related metrics, and then computes the mean and confidence intervals (e.g., 95% CI).
+2025-09-09 10:29:48 - INFO - The final figure visualizes the CI as a shaded region around the mean accuracy curve.
+2025-09-09 10:29:48 - INFO - Probing is performed ONLY on samples that the model answers correctly via direct generation.
+2025-09-09 10:29:48 - INFO - This helps evaluate the stability and statistical significance of the results.
+2025-09-09 10:29:48 - INFO - NOTE: Probing will be performed ONLY on samples the model answers correctly via direct generation.
+2025-09-09 10:29:48 - INFO - ==================================================
+2025-09-09 10:29:49 - INFO - Global device: cuda:0
+2025-09-09 10:29:49 - INFO - Selected PROBE_TYPE: linear (mlp_hidden=4096)

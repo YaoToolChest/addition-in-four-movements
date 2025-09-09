@@ -1,0 +1,42 @@
+save_dir: ./plots
+formats: [pdf, png]
+dpi: 600
+
+figsize:
+  line: [10.0, 5.5]
+  bar:  [7.0, 5.5]
+
+font:
+  base_size: 14
+  use_cjk_font: false          # 若中文乱码，改 true（需系统已安装字体）
+  cjk_font_family: Noto Sans CJK SC
+
+legend:
+  loc: lower right
+  fontsize: 12
+
+grid:
+  show_minor_ygrid: true
+  show_major_ygrid: true
+
+spines:
+  hide_top_right: true
+
+chance_line:
+  show: true
+  value: 0.3333333333          # 3 类任务机会水平
+
+palette_name: tab10
+
+metric_styles:
+  f1_c0:   {marker: "^", linestyle: ":",  color_index: 0, label: "F1: a+b (a>b) [C0]"}
+  f1_c1:   {marker: "v", linestyle: ":",  color_index: 1, label: "F1: b+a (a>b) [C1]"}
+  f1_c2:   {marker: "s", linestyle: ":",  color_index: 2, label: "F1: a+a (a=b) [C2]"}
+  acc:     {marker: "o", linestyle: "-",  color_index: 3, label: "Overall Accuracy"}
+  chance:  {linestyle: "--", color_fixed: "grey", label: "Chance (0.333)"}
+
+  in_2d:   {marker: "o", linestyle: "-",  color_index: 0, label: "2-digit (In-Domain Train)"}
+  ood_1d:  {marker: "^", linestyle: "-",  color_index: 1, label: "1-digit (OOD Test)"}
+  ood_2d:  {marker: "d", linestyle: "--", color_index: 2, label: "2-digit (OOD Test)"}
+  ood_3d:  {marker: "s", linestyle: "-",  color_index: 3, label: "3-digit (OOD Test)"}
+  ood_4d:  {marker: "v", linestyle: "-",  color_index: 4, label: "4-digit (OOD Test)"}

@@ -1,0 +1,304 @@
+
+--- Repetition 1/5 with Seed 42 ---
+L0: AddAcc=0.1304, MultAcc=0.0100, SubAcc=0.0780
+L1: AddAcc=0.1168, MultAcc=0.1240, SubAcc=0.1020
+L2: AddAcc=0.1208, MultAcc=0.0860, SubAcc=0.2140
+L3: AddAcc=0.1600, MultAcc=0.1260, SubAcc=0.0880
+L4: AddAcc=0.1696, MultAcc=0.1860, SubAcc=0.2120
+L5: AddAcc=0.1408, MultAcc=0.1840, SubAcc=0.1080
+L6: AddAcc=0.1440, MultAcc=0.1620, SubAcc=0.0580
+L7: AddAcc=0.1648, MultAcc=0.1700, SubAcc=0.0900
+L8: AddAcc=0.2224, MultAcc=0.1980, SubAcc=0.1020
+L9: AddAcc=0.2200, MultAcc=0.1760, SubAcc=0.1140
+L10: AddAcc=0.2392, MultAcc=0.1560, SubAcc=0.1280
+L11: AddAcc=0.1968, MultAcc=0.1240, SubAcc=0.1080
+L12: AddAcc=0.2272, MultAcc=0.1040, SubAcc=0.1260
+L13: AddAcc=0.2280, MultAcc=0.1200, SubAcc=0.0820
+L14: AddAcc=0.2432, MultAcc=0.1720, SubAcc=0.0740
+L15: AddAcc=0.2528, MultAcc=0.1920, SubAcc=0.0560
+L16: AddAcc=0.2184, MultAcc=0.1820, SubAcc=0.0740
+L17: AddAcc=0.2216, MultAcc=0.1720, SubAcc=0.0420
+L18: AddAcc=0.2640, MultAcc=0.1860, SubAcc=0.0780
+L19: AddAcc=0.3024, MultAcc=0.1860, SubAcc=0.0760
+L20: AddAcc=0.2816, MultAcc=0.1380, SubAcc=0.1000
+L21: AddAcc=0.3120, MultAcc=0.0920, SubAcc=0.1520
+L22: AddAcc=0.3864, MultAcc=0.1140, SubAcc=0.1500
+L23: AddAcc=0.5056, MultAcc=0.1220, SubAcc=0.1800
+L24: AddAcc=0.7368, MultAcc=0.2420, SubAcc=0.4720
+L25: AddAcc=0.8544, MultAcc=0.5160, SubAcc=0.5880
+L26: AddAcc=0.8760, MultAcc=0.5460, SubAcc=0.6820
+L27: AddAcc=0.8752, MultAcc=0.5560, SubAcc=0.7200
+L28: AddAcc=0.8744, MultAcc=0.5580, SubAcc=0.6860
+
+--- Repetition 2/5 with Seed 43 ---
+L0: AddAcc=0.1224, MultAcc=0.0780, SubAcc=0.0780
+L1: AddAcc=0.1240, MultAcc=0.0980, SubAcc=0.0240
+L2: AddAcc=0.1352, MultAcc=0.0880, SubAcc=0.2200
+L3: AddAcc=0.1392, MultAcc=0.0920, SubAcc=0.1240
+L4: AddAcc=0.1280, MultAcc=0.0740, SubAcc=0.1580
+L5: AddAcc=0.1568, MultAcc=0.1200, SubAcc=0.1700
+L6: AddAcc=0.1160, MultAcc=0.1500, SubAcc=0.0680
+L7: AddAcc=0.1960, MultAcc=0.1920, SubAcc=0.0840
+L8: AddAcc=0.1616, MultAcc=0.1440, SubAcc=0.1080
+L9: AddAcc=0.1976, MultAcc=0.1780, SubAcc=0.1220
+L10: AddAcc=0.2096, MultAcc=0.1540, SubAcc=0.0640
+L11: AddAcc=0.2208, MultAcc=0.1140, SubAcc=0.0840
+L12: AddAcc=0.2576, MultAcc=0.1400, SubAcc=0.0620
+L13: AddAcc=0.2176, MultAcc=0.1480, SubAcc=0.0620
+L14: AddAcc=0.2168, MultAcc=0.2040, SubAcc=0.0500
+L15: AddAcc=0.2248, MultAcc=0.1960, SubAcc=0.1620
+L16: AddAcc=0.2520, MultAcc=0.1500, SubAcc=0.0960
+L17: AddAcc=0.2224, MultAcc=0.1400, SubAcc=0.0760
+L18: AddAcc=0.2648, MultAcc=0.2160, SubAcc=0.1480
+L19: AddAcc=0.2944, MultAcc=0.2020, SubAcc=0.0660
+L20: AddAcc=0.3136, MultAcc=0.2100, SubAcc=0.0720
+L21: AddAcc=0.2904, MultAcc=0.1380, SubAcc=0.1960
+L22: AddAcc=0.3632, MultAcc=0.0480, SubAcc=0.0940
+L23: AddAcc=0.4864, MultAcc=0.1260, SubAcc=0.1480
+L24: AddAcc=0.7592, MultAcc=0.2440, SubAcc=0.4140
+L25: AddAcc=0.8296, MultAcc=0.4140, SubAcc=0.6160
+L26: AddAcc=0.8632, MultAcc=0.5240, SubAcc=0.7160
+L27: AddAcc=0.8752, MultAcc=0.5700, SubAcc=0.7440
+L28: AddAcc=0.8880, MultAcc=0.5540, SubAcc=0.6960
+
+--- Repetition 3/5 with Seed 44 ---
+L0: AddAcc=0.1240, MultAcc=0.1020, SubAcc=0.0660
+L1: AddAcc=0.1376, MultAcc=0.0360, SubAcc=0.0180
+L2: AddAcc=0.1448, MultAcc=0.0740, SubAcc=0.0260
+L3: AddAcc=0.1440, MultAcc=0.0800, SubAcc=0.0340
+L4: AddAcc=0.1448, MultAcc=0.0600, SubAcc=0.0460
+L5: AddAcc=0.1800, MultAcc=0.1660, SubAcc=0.1000
+L6: AddAcc=0.1216, MultAcc=0.1540, SubAcc=0.0960
+L7: AddAcc=0.1704, MultAcc=0.1740, SubAcc=0.0440
+L8: AddAcc=0.1696, MultAcc=0.1440, SubAcc=0.0420
+L9: AddAcc=0.2208, MultAcc=0.1840, SubAcc=0.0700
+L10: AddAcc=0.2432, MultAcc=0.1720, SubAcc=0.1540
+L11: AddAcc=0.2032, MultAcc=0.1640, SubAcc=0.0840
+L12: AddAcc=0.1912, MultAcc=0.1400, SubAcc=0.0580
+L13: AddAcc=0.2120, MultAcc=0.1920, SubAcc=0.0420
+L14: AddAcc=0.2400, MultAcc=0.1780, SubAcc=0.0300
+L15: AddAcc=0.2232, MultAcc=0.1840, SubAcc=0.0280
+L16: AddAcc=0.2440, MultAcc=0.1300, SubAcc=0.0760
+L17: AddAcc=0.2528, MultAcc=0.2060, SubAcc=0.0640
+L18: AddAcc=0.2952, MultAcc=0.1840, SubAcc=0.0680
+L19: AddAcc=0.3152, MultAcc=0.1320, SubAcc=0.0460
+L20: AddAcc=0.3112, MultAcc=0.1440, SubAcc=0.0660
+L21: AddAcc=0.3024, MultAcc=0.0780, SubAcc=0.0480
+L22: AddAcc=0.3704, MultAcc=0.1220, SubAcc=0.0540
+L23: AddAcc=0.4504, MultAcc=0.1120, SubAcc=0.0920
+L24: AddAcc=0.7336, MultAcc=0.2380, SubAcc=0.4360
+L25: AddAcc=0.8272, MultAcc=0.4880, SubAcc=0.6080
+L26: AddAcc=0.8760, MultAcc=0.5500, SubAcc=0.6200
+L27: AddAcc=0.8720, MultAcc=0.5640, SubAcc=0.6800
+L28: AddAcc=0.8712, MultAcc=0.5200, SubAcc=0.6680
+
+--- Repetition 4/5 with Seed 45 ---
+L0: AddAcc=0.1288, MultAcc=0.0380, SubAcc=0.0640
+L1: AddAcc=0.1376, MultAcc=0.0720, SubAcc=0.1500
+L2: AddAcc=0.1528, MultAcc=0.0580, SubAcc=0.1560
+L3: AddAcc=0.1448, MultAcc=0.1040, SubAcc=0.0640
+L4: AddAcc=0.1432, MultAcc=0.1280, SubAcc=0.0280
+L5: AddAcc=0.1832, MultAcc=0.1980, SubAcc=0.0700
+L6: AddAcc=0.1760, MultAcc=0.1920, SubAcc=0.2420
+L7: AddAcc=0.1744, MultAcc=0.2200, SubAcc=0.1120
+L8: AddAcc=0.1976, MultAcc=0.1840, SubAcc=0.0380
+L9: AddAcc=0.1616, MultAcc=0.2320, SubAcc=0.0440
+L10: AddAcc=0.2048, MultAcc=0.1560, SubAcc=0.0680
+L11: AddAcc=0.1912, MultAcc=0.1800, SubAcc=0.0780
+L12: AddAcc=0.2328, MultAcc=0.2180, SubAcc=0.0480
+L13: AddAcc=0.2312, MultAcc=0.1840, SubAcc=0.0340
+L14: AddAcc=0.2136, MultAcc=0.1820, SubAcc=0.0400
+L15: AddAcc=0.2320, MultAcc=0.1900, SubAcc=0.0540
+L16: AddAcc=0.2312, MultAcc=0.1860, SubAcc=0.0620
+L17: AddAcc=0.2680, MultAcc=0.2360, SubAcc=0.0340
+L18: AddAcc=0.2728, MultAcc=0.1860, SubAcc=0.0600
+L19: AddAcc=0.3040, MultAcc=0.1760, SubAcc=0.1380
+L20: AddAcc=0.2736, MultAcc=0.1220, SubAcc=0.0640
+L21: AddAcc=0.2864, MultAcc=0.1200, SubAcc=0.1020
+L22: AddAcc=0.3912, MultAcc=0.0780, SubAcc=0.0740
+L23: AddAcc=0.4616, MultAcc=0.1200, SubAcc=0.0720
+L24: AddAcc=0.7136, MultAcc=0.2500, SubAcc=0.4860
+L25: AddAcc=0.8336, MultAcc=0.4020, SubAcc=0.5960
+L26: AddAcc=0.8600, MultAcc=0.5400, SubAcc=0.6400
+L27: AddAcc=0.8464, MultAcc=0.5280, SubAcc=0.6880
+L28: AddAcc=0.8840, MultAcc=0.5280, SubAcc=0.6940
+
+--- Repetition 5/5 with Seed 46 ---
+L0: AddAcc=0.1328, MultAcc=0.1040, SubAcc=0.0940
+L1: AddAcc=0.1344, MultAcc=0.0860, SubAcc=0.0880
+L2: AddAcc=0.1408, MultAcc=0.0440, SubAcc=0.0460
+L3: AddAcc=0.1304, MultAcc=0.2040, SubAcc=0.1440
+L4: AddAcc=0.1256, MultAcc=0.0760, SubAcc=0.0680
+L5: AddAcc=0.1600, MultAcc=0.1100, SubAcc=0.2120
+L6: AddAcc=0.1696, MultAcc=0.1560, SubAcc=0.0500
+L7: AddAcc=0.1744, MultAcc=0.2140, SubAcc=0.1140
+L8: AddAcc=0.1848, MultAcc=0.2100, SubAcc=0.0500
+L9: AddAcc=0.1776, MultAcc=0.0940, SubAcc=0.0260
+L10: AddAcc=0.2264, MultAcc=0.1660, SubAcc=0.0580
+L11: AddAcc=0.2072, MultAcc=0.1300, SubAcc=0.0660
+L12: AddAcc=0.2208, MultAcc=0.1180, SubAcc=0.0620
+L13: AddAcc=0.1920, MultAcc=0.1600, SubAcc=0.0480
+L14: AddAcc=0.2152, MultAcc=0.1560, SubAcc=0.0580
+L15: AddAcc=0.2104, MultAcc=0.2300, SubAcc=0.0520
+L16: AddAcc=0.2088, MultAcc=0.1560, SubAcc=0.0480
+L17: AddAcc=0.2360, MultAcc=0.1680, SubAcc=0.0380
+L18: AddAcc=0.2192, MultAcc=0.1500, SubAcc=0.0360
+L19: AddAcc=0.2936, MultAcc=0.2140, SubAcc=0.0800
+L20: AddAcc=0.2968, MultAcc=0.1700, SubAcc=0.0440
+L21: AddAcc=0.2712, MultAcc=0.2160, SubAcc=0.1520
+L22: AddAcc=0.3552, MultAcc=0.0820, SubAcc=0.0540
+L23: AddAcc=0.4800, MultAcc=0.1200, SubAcc=0.0840
+L24: AddAcc=0.7512, MultAcc=0.2100, SubAcc=0.3860
+L25: AddAcc=0.8560, MultAcc=0.4780, SubAcc=0.6080
+L26: AddAcc=0.8672, MultAcc=0.5180, SubAcc=0.6200
+L27: AddAcc=0.8472, MultAcc=0.5380, SubAcc=0.6320
+L28: AddAcc=0.8688, MultAcc=0.4540, SubAcc=0.6520
+
+
+--- Aggregated Statistics Across Runs ---
+Number of Repetitions: 5, Confidence Level: 95.0%
+
+--- Layer 0 ---
+ADDITION Test Accuracy: Mean=0.1277, 95.0% CI=(0.1223, 0.1331), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.0664, 95.0% CI=(0.0152, 0.1176), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0760, 95.0% CI=(0.0611, 0.0909), N_valid_runs=5
+
+--- Layer 1 ---
+ADDITION Test Accuracy: Mean=0.1301, 95.0% CI=(0.1185, 0.1416), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.0832, 95.0% CI=(0.0428, 0.1236), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0764, 95.0% CI=(0.0074, 0.1454), N_valid_runs=5
+
+--- Layer 2 ---
+ADDITION Test Accuracy: Mean=0.1389, 95.0% CI=(0.1240, 0.1537), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.0700, 95.0% CI=(0.0466, 0.0934), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1324, 95.0% CI=(0.0185, 0.2463), N_valid_runs=5
+
+--- Layer 3 ---
+ADDITION Test Accuracy: Mean=0.1437, 95.0% CI=(0.1303, 0.1571), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1212, 95.0% CI=(0.0600, 0.1824), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0908, 95.0% CI=(0.0357, 0.1459), N_valid_runs=5
+
+--- Layer 4 ---
+ADDITION Test Accuracy: Mean=0.1422, 95.0% CI=(0.1204, 0.1641), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1048, 95.0% CI=(0.0399, 0.1697), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1024, 95.0% CI=(0.0042, 0.2006), N_valid_runs=5
+
+--- Layer 5 ---
+ADDITION Test Accuracy: Mean=0.1642, 95.0% CI=(0.1424, 0.1859), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1556, 95.0% CI=(0.1073, 0.2039), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1320, 95.0% CI=(0.0604, 0.2036), N_valid_runs=5
+
+--- Layer 6 ---
+ADDITION Test Accuracy: Mean=0.1454, 95.0% CI=(0.1117, 0.1792), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1628, 95.0% CI=(0.1418, 0.1838), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1028, 95.0% CI=(0.0038, 0.2018), N_valid_runs=5
+
+--- Layer 7 ---
+ADDITION Test Accuracy: Mean=0.1760, 95.0% CI=(0.1613, 0.1907), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1940, 95.0% CI=(0.1658, 0.2222), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0888, 95.0% CI=(0.0537, 0.1239), N_valid_runs=5
+
+--- Layer 8 ---
+ADDITION Test Accuracy: Mean=0.1872, 95.0% CI=(0.1573, 0.2171), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1760, 95.0% CI=(0.1380, 0.2140), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0680, 95.0% CI=(0.0256, 0.1104), N_valid_runs=5
+
+--- Layer 9 ---
+ADDITION Test Accuracy: Mean=0.1955, 95.0% CI=(0.1632, 0.2279), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1728, 95.0% CI=(0.1111, 0.2345), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0752, 95.0% CI=(0.0228, 0.1276), N_valid_runs=5
+
+--- Layer 10 ---
+ADDITION Test Accuracy: Mean=0.2246, 95.0% CI=(0.2033, 0.2460), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1608, 95.0% CI=(0.1511, 0.1705), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0944, 95.0% CI=(0.0402, 0.1486), N_valid_runs=5
+
+--- Layer 11 ---
+ADDITION Test Accuracy: Mean=0.2038, 95.0% CI=(0.1898, 0.2178), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1424, 95.0% CI=(0.1074, 0.1774), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0840, 95.0% CI=(0.0650, 0.1030), N_valid_runs=5
+
+--- Layer 12 ---
+ADDITION Test Accuracy: Mean=0.2259, 95.0% CI=(0.1962, 0.2556), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1440, 95.0% CI=(0.0892, 0.1988), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0712, 95.0% CI=(0.0325, 0.1099), N_valid_runs=5
+
+--- Layer 13 ---
+ADDITION Test Accuracy: Mean=0.2162, 95.0% CI=(0.1968, 0.2355), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1608, 95.0% CI=(0.1249, 0.1967), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0536, 95.0% CI=(0.0301, 0.0771), N_valid_runs=5
+
+--- Layer 14 ---
+ADDITION Test Accuracy: Mean=0.2258, 95.0% CI=(0.2077, 0.2438), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1784, 95.0% CI=(0.1568, 0.2000), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0504, 95.0% CI=(0.0294, 0.0714), N_valid_runs=5
+
+--- Layer 15 ---
+ADDITION Test Accuracy: Mean=0.2286, 95.0% CI=(0.2093, 0.2480), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1984, 95.0% CI=(0.1758, 0.2210), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0704, 95.0% CI=(0.0053, 0.1355), N_valid_runs=5
+
+--- Layer 16 ---
+ADDITION Test Accuracy: Mean=0.2309, 95.0% CI=(0.2088, 0.2529), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1608, 95.0% CI=(0.1319, 0.1897), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0712, 95.0% CI=(0.0491, 0.0933), N_valid_runs=5
+
+--- Layer 17 ---
+ADDITION Test Accuracy: Mean=0.2402, 95.0% CI=(0.2152, 0.2651), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1844, 95.0% CI=(0.1383, 0.2305), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0508, 95.0% CI=(0.0281, 0.0735), N_valid_runs=5
+
+--- Layer 18 ---
+ADDITION Test Accuracy: Mean=0.2632, 95.0% CI=(0.2289, 0.2975), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1844, 95.0% CI=(0.1554, 0.2134), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0780, 95.0% CI=(0.0257, 0.1303), N_valid_runs=5
+
+--- Layer 19 ---
+ADDITION Test Accuracy: Mean=0.3019, 95.0% CI=(0.2910, 0.3128), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1820, 95.0% CI=(0.1429, 0.2211), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0812, 95.0% CI=(0.0385, 0.1239), N_valid_runs=5
+
+--- Layer 20 ---
+ADDITION Test Accuracy: Mean=0.2954, 95.0% CI=(0.2734, 0.3173), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1568, 95.0% CI=(0.1141, 0.1995), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0692, 95.0% CI=(0.0441, 0.0943), N_valid_runs=5
+
+--- Layer 21 ---
+ADDITION Test Accuracy: Mean=0.2925, 95.0% CI=(0.2731, 0.3119), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1288, 95.0% CI=(0.0616, 0.1960), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1300, 95.0% CI=(0.0597, 0.2003), N_valid_runs=5
+
+--- Layer 22 ---
+ADDITION Test Accuracy: Mean=0.3733, 95.0% CI=(0.3543, 0.3922), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.0888, 95.0% CI=(0.0517, 0.1259), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.0852, 95.0% CI=(0.0357, 0.1347), N_valid_runs=5
+
+--- Layer 23 ---
+ADDITION Test Accuracy: Mean=0.4768, 95.0% CI=(0.4500, 0.5036), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.1200, 95.0% CI=(0.1137, 0.1263), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.1152, 95.0% CI=(0.0574, 0.1730), N_valid_runs=5
+
+--- Layer 24 ---
+ADDITION Test Accuracy: Mean=0.7389, 95.0% CI=(0.7171, 0.7607), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.2368, 95.0% CI=(0.2174, 0.2562), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.4388, 95.0% CI=(0.3878, 0.4898), N_valid_runs=5
+
+--- Layer 25 ---
+ADDITION Test Accuracy: Mean=0.8402, 95.0% CI=(0.8229, 0.8575), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.4596, 95.0% CI=(0.3984, 0.5208), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.6032, 95.0% CI=(0.5894, 0.6170), N_valid_runs=5
+
+--- Layer 26 ---
+ADDITION Test Accuracy: Mean=0.8685, 95.0% CI=(0.8594, 0.8776), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.5356, 95.0% CI=(0.5183, 0.5529), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.6556, 95.0% CI=(0.6032, 0.7080), N_valid_runs=5
+
+--- Layer 27 ---
+ADDITION Test Accuracy: Mean=0.8632, 95.0% CI=(0.8445, 0.8819), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.5512, 95.0% CI=(0.5292, 0.5732), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.6928, 95.0% CI=(0.6400, 0.7456), N_valid_runs=5
+
+--- Layer 28 ---
+ADDITION Test Accuracy: Mean=0.8773, 95.0% CI=(0.8669, 0.8876), N_valid_runs=5
+Cross-Task Accuracy (MULT): Mean=0.5228, 95.0% CI=(0.4709, 0.5747), N_valid_runs=5
+Cross-Task Accuracy (SUB): Mean=0.6792, 95.0% CI=(0.6559, 0.7025), N_valid_runs=5

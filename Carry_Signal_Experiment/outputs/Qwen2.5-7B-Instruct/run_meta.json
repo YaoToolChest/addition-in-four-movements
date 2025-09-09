@@ -1,0 +1,21 @@
+{
+  "model_name": "/root/autodl-tmp/Qwen2.5-7B-Instruct",
+  "sanitized_dir": "Qwen2.5-7B-Instruct",
+  "device": "cuda:0",
+  "dtype": "bf16",
+  "n_digits": 3,
+  "positions": [
+    0,
+    1,
+    2
+  ],
+  "task": "carry",
+  "samples_per_class": 1000,
+  "batch_size": 500,
+  "repetitions": 5,
+  "epochs": 20,
+  "lr": 0.001,
+  "detected_layers_hidden_states": 29,
+  "hidden_size": 3584,
+  "csv_path": "outputs/Qwen2.5-7B-Instruct/carry_accuracies_mean_ci_nd3_nrep5.csv"
+}

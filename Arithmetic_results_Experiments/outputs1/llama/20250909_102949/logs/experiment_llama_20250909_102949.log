@@ -1,0 +1,226 @@
+2025-09-09 10:29:49 - INFO - ======================================================================
+2025-09-09 10:29:49 - INFO - MODEL = /root/autodl-tmp/llama
+2025-09-09 10:29:49 - INFO - Run dir = outputs/llama/20250909_102949
+2025-09-09 10:29:49 - INFO - Logs at = outputs/llama/20250909_102949/logs/experiment_llama_20250909_102949.log
+2025-09-09 10:29:49 - INFO - ======================================================================
+2025-09-09 10:29:58 - INFO - Model & tokenizer loaded.
+2025-09-09 10:29:58 - INFO - Layer probing indices = [1, 2, 3, 4, 5, 6]... (total 32) | logical_num_layers=32, hidden_states_len=33
+2025-09-09 10:29:58 - INFO - ========== START REP 1/5 seed=42 ==========
+2025-09-09 10:29:58 - INFO - Seed set to 42
+2025-09-09 10:29:58 - INFO - --- Rep 1, Range [500-509] ---
+2025-09-09 10:29:58 - INFO - Range [500-509]: Starting dataset generation for target sums: [500, 501, 502, 503, 504, 505, 506, 507, 508, 509]
+2025-09-09 10:29:58 - INFO - Range [500-509]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:29:58 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:30:08 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:30:08 - INFO - Range [500-509]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:30:18 - INFO - Range [500-509]: Finished activation extraction for filtered set.
+2025-09-09 10:30:34 - INFO - [Summary] Range 500-509 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:30:34 - INFO - --- Rep 1, Range [600-609] ---
+2025-09-09 10:30:34 - INFO - Range [600-609]: Starting dataset generation for target sums: [600, 601, 602, 603, 604, 605, 606, 607, 608, 609]
+2025-09-09 10:30:34 - INFO - Range [600-609]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:30:34 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:30:44 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:30:44 - INFO - Range [600-609]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:30:53 - INFO - Range [600-609]: Finished activation extraction for filtered set.
+2025-09-09 10:31:10 - INFO - [Summary] Range 600-609 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:31:10 - INFO - --- Rep 1, Range [700-709] ---
+2025-09-09 10:31:10 - INFO - Range [700-709]: Starting dataset generation for target sums: [700, 701, 702, 703, 704, 705, 706, 707, 708, 709]
+2025-09-09 10:31:10 - INFO - Range [700-709]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:31:10 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:31:20 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:31:20 - INFO - Range [700-709]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:31:29 - INFO - Range [700-709]: Finished activation extraction for filtered set.
+2025-09-09 10:31:46 - INFO - [Summary] Range 700-709 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:31:46 - INFO - --- Rep 1, Range [800-809] ---
+2025-09-09 10:31:46 - INFO - Range [800-809]: Starting dataset generation for target sums: [800, 801, 802, 803, 804, 805, 806, 807, 808, 809]
+2025-09-09 10:31:46 - INFO - Range [800-809]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:31:46 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:31:56 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:31:56 - INFO - Range [800-809]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:32:05 - INFO - Range [800-809]: Finished activation extraction for filtered set.
+2025-09-09 10:32:21 - INFO - [Summary] Range 800-809 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:32:21 - INFO - --- Rep 1, Range [900-909] ---
+2025-09-09 10:32:21 - INFO - Range [900-909]: Starting dataset generation for target sums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909]
+2025-09-09 10:32:21 - INFO - Range [900-909]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:32:21 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:32:31 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:32:31 - INFO - Range [900-909]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:32:40 - INFO - Range [900-909]: Finished activation extraction for filtered set.
+2025-09-09 10:32:57 - INFO - [Summary] Range 900-909 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:32:57 - INFO - ========== END REP 1/5 ==========
+2025-09-09 10:32:57 - INFO - ========== START REP 2/5 seed=43 ==========
+2025-09-09 10:32:57 - INFO - Seed set to 43
+2025-09-09 10:32:57 - INFO - --- Rep 2, Range [500-509] ---
+2025-09-09 10:32:57 - INFO - Range [500-509]: Starting dataset generation for target sums: [500, 501, 502, 503, 504, 505, 506, 507, 508, 509]
+2025-09-09 10:32:57 - INFO - Range [500-509]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:32:57 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:33:07 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:33:07 - INFO - Range [500-509]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:33:16 - INFO - Range [500-509]: Finished activation extraction for filtered set.
+2025-09-09 10:33:32 - INFO - [Summary] Range 500-509 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:33:32 - INFO - --- Rep 2, Range [600-609] ---
+2025-09-09 10:33:32 - INFO - Range [600-609]: Starting dataset generation for target sums: [600, 601, 602, 603, 604, 605, 606, 607, 608, 609]
+2025-09-09 10:33:32 - INFO - Range [600-609]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:33:32 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:33:42 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:33:42 - INFO - Range [600-609]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:33:51 - INFO - Range [600-609]: Finished activation extraction for filtered set.
+2025-09-09 10:34:07 - INFO - [Summary] Range 600-609 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:34:07 - INFO - --- Rep 2, Range [700-709] ---
+2025-09-09 10:34:07 - INFO - Range [700-709]: Starting dataset generation for target sums: [700, 701, 702, 703, 704, 705, 706, 707, 708, 709]
+2025-09-09 10:34:07 - INFO - Range [700-709]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:34:07 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:34:17 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:34:17 - INFO - Range [700-709]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:34:26 - INFO - Range [700-709]: Finished activation extraction for filtered set.
+2025-09-09 10:34:42 - INFO - [Summary] Range 700-709 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:34:42 - INFO - --- Rep 2, Range [800-809] ---
+2025-09-09 10:34:42 - INFO - Range [800-809]: Starting dataset generation for target sums: [800, 801, 802, 803, 804, 805, 806, 807, 808, 809]
+2025-09-09 10:34:42 - INFO - Range [800-809]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:34:42 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:34:52 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:34:52 - INFO - Range [800-809]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:35:01 - INFO - Range [800-809]: Finished activation extraction for filtered set.
+2025-09-09 10:35:17 - INFO - [Summary] Range 800-809 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:35:17 - INFO - --- Rep 2, Range [900-909] ---
+2025-09-09 10:35:17 - INFO - Range [900-909]: Starting dataset generation for target sums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909]
+2025-09-09 10:35:17 - INFO - Range [900-909]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:35:17 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:35:27 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:35:27 - INFO - Range [900-909]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:35:36 - INFO - Range [900-909]: Finished activation extraction for filtered set.
+2025-09-09 10:35:52 - INFO - [Summary] Range 900-909 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:35:52 - INFO - ========== END REP 2/5 ==========
+2025-09-09 10:35:52 - INFO - ========== START REP 3/5 seed=44 ==========
+2025-09-09 10:35:52 - INFO - Seed set to 44
+2025-09-09 10:35:52 - INFO - --- Rep 3, Range [500-509] ---
+2025-09-09 10:35:52 - INFO - Range [500-509]: Starting dataset generation for target sums: [500, 501, 502, 503, 504, 505, 506, 507, 508, 509]
+2025-09-09 10:35:52 - INFO - Range [500-509]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:35:52 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:36:02 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:36:02 - INFO - Range [500-509]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:36:11 - INFO - Range [500-509]: Finished activation extraction for filtered set.
+2025-09-09 10:36:27 - INFO - [Summary] Range 500-509 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:36:27 - INFO - --- Rep 3, Range [600-609] ---
+2025-09-09 10:36:27 - INFO - Range [600-609]: Starting dataset generation for target sums: [600, 601, 602, 603, 604, 605, 606, 607, 608, 609]
+2025-09-09 10:36:27 - INFO - Range [600-609]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:36:27 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:36:37 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:36:37 - INFO - Range [600-609]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:36:46 - INFO - Range [600-609]: Finished activation extraction for filtered set.
+2025-09-09 10:37:03 - INFO - [Summary] Range 600-609 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:37:03 - INFO - --- Rep 3, Range [700-709] ---
+2025-09-09 10:37:03 - INFO - Range [700-709]: Starting dataset generation for target sums: [700, 701, 702, 703, 704, 705, 706, 707, 708, 709]
+2025-09-09 10:37:03 - INFO - Range [700-709]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:37:03 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:37:13 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:37:13 - INFO - Range [700-709]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:37:21 - INFO - Range [700-709]: Finished activation extraction for filtered set.
+2025-09-09 10:37:37 - INFO - [Summary] Range 700-709 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:37:37 - INFO - --- Rep 3, Range [800-809] ---
+2025-09-09 10:37:37 - INFO - Range [800-809]: Starting dataset generation for target sums: [800, 801, 802, 803, 804, 805, 806, 807, 808, 809]
+2025-09-09 10:37:37 - INFO - Range [800-809]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:37:37 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:37:48 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:37:48 - INFO - Range [800-809]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:37:57 - INFO - Range [800-809]: Finished activation extraction for filtered set.
+2025-09-09 10:38:13 - INFO - [Summary] Range 800-809 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:38:13 - INFO - --- Rep 3, Range [900-909] ---
+2025-09-09 10:38:13 - INFO - Range [900-909]: Starting dataset generation for target sums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909]
+2025-09-09 10:38:13 - INFO - Range [900-909]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:38:13 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:38:23 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:38:23 - INFO - Range [900-909]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:38:32 - INFO - Range [900-909]: Finished activation extraction for filtered set.
+2025-09-09 10:38:48 - INFO - [Summary] Range 900-909 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:38:48 - INFO - ========== END REP 3/5 ==========
+2025-09-09 10:38:48 - INFO - ========== START REP 4/5 seed=45 ==========
+2025-09-09 10:38:48 - INFO - Seed set to 45
+2025-09-09 10:38:48 - INFO - --- Rep 4, Range [500-509] ---
+2025-09-09 10:38:48 - INFO - Range [500-509]: Starting dataset generation for target sums: [500, 501, 502, 503, 504, 505, 506, 507, 508, 509]
+2025-09-09 10:38:48 - INFO - Range [500-509]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:38:48 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:38:58 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:38:58 - INFO - Range [500-509]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:39:07 - INFO - Range [500-509]: Finished activation extraction for filtered set.
+2025-09-09 10:39:24 - INFO - [Summary] Range 500-509 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:39:24 - INFO - --- Rep 4, Range [600-609] ---
+2025-09-09 10:39:24 - INFO - Range [600-609]: Starting dataset generation for target sums: [600, 601, 602, 603, 604, 605, 606, 607, 608, 609]
+2025-09-09 10:39:24 - INFO - Range [600-609]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:39:24 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:39:34 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:39:34 - INFO - Range [600-609]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:39:43 - INFO - Range [600-609]: Finished activation extraction for filtered set.
+2025-09-09 10:40:00 - INFO - [Summary] Range 600-609 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:40:00 - INFO - --- Rep 4, Range [700-709] ---
+2025-09-09 10:40:00 - INFO - Range [700-709]: Starting dataset generation for target sums: [700, 701, 702, 703, 704, 705, 706, 707, 708, 709]
+2025-09-09 10:40:00 - INFO - Range [700-709]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:40:00 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:40:10 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:40:10 - INFO - Range [700-709]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:40:19 - INFO - Range [700-709]: Finished activation extraction for filtered set.
+2025-09-09 10:40:35 - INFO - [Summary] Range 700-709 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:40:35 - INFO - --- Rep 4, Range [800-809] ---
+2025-09-09 10:40:35 - INFO - Range [800-809]: Starting dataset generation for target sums: [800, 801, 802, 803, 804, 805, 806, 807, 808, 809]
+2025-09-09 10:40:35 - INFO - Range [800-809]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:40:35 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:40:45 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:40:45 - INFO - Range [800-809]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:40:54 - INFO - Range [800-809]: Finished activation extraction for filtered set.
+2025-09-09 10:41:11 - INFO - [Summary] Range 800-809 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:41:11 - INFO - --- Rep 4, Range [900-909] ---
+2025-09-09 10:41:11 - INFO - Range [900-909]: Starting dataset generation for target sums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909]
+2025-09-09 10:41:11 - INFO - Range [900-909]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:41:11 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:41:21 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:41:21 - INFO - Range [900-909]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:41:30 - INFO - Range [900-909]: Finished activation extraction for filtered set.
+2025-09-09 10:41:46 - INFO - [Summary] Range 900-909 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:41:46 - INFO - ========== END REP 4/5 ==========
+2025-09-09 10:41:46 - INFO - ========== START REP 5/5 seed=46 ==========
+2025-09-09 10:41:46 - INFO - Seed set to 46
+2025-09-09 10:41:46 - INFO - --- Rep 5, Range [500-509] ---
+2025-09-09 10:41:46 - INFO - Range [500-509]: Starting dataset generation for target sums: [500, 501, 502, 503, 504, 505, 506, 507, 508, 509]
+2025-09-09 10:41:46 - INFO - Range [500-509]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:41:46 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:41:56 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:41:56 - INFO - Range [500-509]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:42:05 - INFO - Range [500-509]: Finished activation extraction for filtered set.
+2025-09-09 10:42:21 - INFO - [Summary] Range 500-509 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:42:21 - INFO - --- Rep 5, Range [600-609] ---
+2025-09-09 10:42:21 - INFO - Range [600-609]: Starting dataset generation for target sums: [600, 601, 602, 603, 604, 605, 606, 607, 608, 609]
+2025-09-09 10:42:21 - INFO - Range [600-609]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:42:21 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:42:32 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:42:32 - INFO - Range [600-609]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:42:40 - INFO - Range [600-609]: Finished activation extraction for filtered set.
+2025-09-09 10:42:57 - INFO - [Summary] Range 600-609 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:42:57 - INFO - --- Rep 5, Range [700-709] ---
+2025-09-09 10:42:57 - INFO - Range [700-709]: Starting dataset generation for target sums: [700, 701, 702, 703, 704, 705, 706, 707, 708, 709]
+2025-09-09 10:42:57 - INFO - Range [700-709]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:42:57 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:43:07 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:43:07 - INFO - Range [700-709]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:43:16 - INFO - Range [700-709]: Finished activation extraction for filtered set.
+2025-09-09 10:43:32 - INFO - [Summary] Range 700-709 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:43:32 - INFO - --- Rep 5, Range [800-809] ---
+2025-09-09 10:43:32 - INFO - Range [800-809]: Starting dataset generation for target sums: [800, 801, 802, 803, 804, 805, 806, 807, 808, 809]
+2025-09-09 10:43:32 - INFO - Range [800-809]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:43:32 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:43:42 - INFO - Filter: original=4000, filtered=3999
+2025-09-09 10:43:42 - INFO - Range [800-809]: Starting activation extraction for 3999 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:43:51 - INFO - Range [800-809]: Finished activation extraction for filtered set.
+2025-09-09 10:44:07 - INFO - [Summary] Range 800-809 | GenAcc=0.9998 | OrigN=4000 | FiltN=3999 | BestLayer=19 Acc=1.0000
+2025-09-09 10:44:07 - INFO - --- Rep 5, Range [900-909] ---
+2025-09-09 10:44:07 - INFO - Range [900-909]: Starting dataset generation for target sums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909]
+2025-09-09 10:44:07 - INFO - Range [900-909]: Finished dataset generation. Total samples: 4000
+2025-09-09 10:44:07 - INFO - Evaluating model's direct answers for 4000 samples...
+2025-09-09 10:44:17 - INFO - Filter: original=4000, filtered=4000
+2025-09-09 10:44:17 - INFO - Range [900-909]: Starting activation extraction for 4000 filtered prompts, layers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], batch size 256.
+2025-09-09 10:44:26 - INFO - Range [900-909]: Finished activation extraction for filtered set.
+2025-09-09 10:44:42 - INFO - [Summary] Range 900-909 | GenAcc=1.0000 | OrigN=4000 | FiltN=4000 | BestLayer=19 Acc=1.0000
+2025-09-09 10:44:42 - INFO - ========== END REP 5/5 ==========
+2025-09-09 10:44:42 - INFO - Plotting:  Linear Decodability vs Depth (95% CI over 5 reps)
+2025-09-09 10:44:43 - INFO - Figure saved: outputs/llama/20250909_102949/probe_gen_filtered_repeated_linear_llama_20250909_102949.pdf & outputs/llama/20250909_102949/probe_gen_filtered_repeated_linear_llama_20250909_102949.png
+2025-09-09 10:44:43 - INFO - Summary JSON saved: outputs/llama/20250909_102949/summary_llama_20250909_102949.json
+2025-09-09 10:44:43 - INFO - Finished model: /root/autodl-tmp/llama

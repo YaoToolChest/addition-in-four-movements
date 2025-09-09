@@ -1,0 +1,480 @@
+Output dir: ./outputs/Qwen2.5-Math-7B/run_seed_42
+Layers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Num samples: 1500
+
+--- Layer 1 ---
+Test Accuracy: 0.4033
+F1-Score Class 0: 0.3407
+F1-Score Class 1: 0.1754
+F1-Score Class 2: 0.5014
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.657     0.230     0.341       100
+   b+a (a>b)      0.714     0.100     0.175       100
+   a+a (a=b)      0.351     0.880     0.501       100
+
+    accuracy                          0.403       300
+   macro avg      0.574     0.403     0.339       300
+weighted avg      0.574     0.403     0.339       300
+
+--------------------
+--- Layer 2 ---
+Test Accuracy: 0.6967
+F1-Score Class 0: 0.8021
+F1-Score Class 1: 0.7179
+F1-Score Class 2: 0.5517
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.837     0.770     0.802       100
+   b+a (a>b)      0.627     0.840     0.718       100
+   a+a (a=b)      0.649     0.480     0.552       100
+
+    accuracy                          0.697       300
+   macro avg      0.704     0.697     0.691       300
+weighted avg      0.704     0.697     0.691       300
+
+--------------------
+--- Layer 3 ---
+Test Accuracy: 0.7133
+F1-Score Class 0: 0.8158
+F1-Score Class 1: 0.7456
+F1-Score Class 2: 0.5000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.727     0.930     0.816       100
+   b+a (a>b)      0.664     0.850     0.746       100
+   a+a (a=b)      0.818     0.360     0.500       100
+
+    accuracy                          0.713       300
+   macro avg      0.736     0.713     0.687       300
+weighted avg      0.736     0.713     0.687       300
+
+--------------------
+--- Layer 4 ---
+Test Accuracy: 0.9167
+F1-Score Class 0: 0.9100
+F1-Score Class 1: 0.8778
+F1-Score Class 2: 0.9569
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.865     0.960     0.910       100
+   b+a (a>b)      0.988     0.790     0.878       100
+   a+a (a=b)      0.917     1.000     0.957       100
+
+    accuracy                          0.917       300
+   macro avg      0.923     0.917     0.915       300
+weighted avg      0.923     0.917     0.915       300
+
+--------------------
+--- Layer 5 ---
+Test Accuracy: 0.9867
+F1-Score Class 0: 0.9802
+F1-Score Class 1: 0.9798
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.971     0.990     0.980       100
+   b+a (a>b)      0.990     0.970     0.980       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.987       300
+   macro avg      0.987     0.987     0.987       300
+weighted avg      0.987     0.987     0.987       300
+
+--------------------
+--- Layer 6 ---
+Test Accuracy: 0.9833
+F1-Score Class 0: 0.9744
+F1-Score Class 1: 0.9756
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     0.950     0.974       100
+   b+a (a>b)      0.952     1.000     0.976       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.983       300
+   macro avg      0.984     0.983     0.983       300
+weighted avg      0.984     0.983     0.983       300
+
+--------------------
+--- Layer 7 ---
+Test Accuracy: 0.9767
+F1-Score Class 0: 0.9652
+F1-Score Class 1: 0.9648
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.960     0.970     0.965       100
+   b+a (a>b)      0.970     0.960     0.965       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.977       300
+   macro avg      0.977     0.977     0.977       300
+weighted avg      0.977     0.977     0.977       300
+
+--------------------
+--- Layer 8 ---
+Test Accuracy: 0.9800
+F1-Score Class 0: 0.9709
+F1-Score Class 1: 0.9691
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.943     1.000     0.971       100
+   b+a (a>b)      1.000     0.940     0.969       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.980       300
+   macro avg      0.981     0.980     0.980       300
+weighted avg      0.981     0.980     0.980       300
+
+--------------------
+--- Layer 9 ---
+Test Accuracy: 0.9733
+F1-Score Class 0: 0.9583
+F1-Score Class 1: 0.9615
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     0.920     0.958       100
+   b+a (a>b)      0.926     1.000     0.962       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.973       300
+   macro avg      0.975     0.973     0.973       300
+weighted avg      0.975     0.973     0.973       300
+
+--------------------
+--- Layer 10 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 11 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 12 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 13 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 14 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 15 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 16 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 17 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 18 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 19 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 20 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 21 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 22 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 23 ---
+Test Accuracy: 1.0000
+F1-Score Class 0: 1.0000
+F1-Score Class 1: 1.0000
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      1.000     1.000     1.000       100
+   b+a (a>b)      1.000     1.000     1.000       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          1.000       300
+   macro avg      1.000     1.000     1.000       300
+weighted avg      1.000     1.000     1.000       300
+
+--------------------
+--- Layer 24 ---
+Test Accuracy: 0.9933
+F1-Score Class 0: 0.9901
+F1-Score Class 1: 0.9899
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.980     1.000     0.990       100
+   b+a (a>b)      1.000     0.980     0.990       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.993       300
+   macro avg      0.993     0.993     0.993       300
+weighted avg      0.993     0.993     0.993       300
+
+--------------------
+--- Layer 25 ---
+Test Accuracy: 0.9933
+F1-Score Class 0: 0.9901
+F1-Score Class 1: 0.9899
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.980     1.000     0.990       100
+   b+a (a>b)      1.000     0.980     0.990       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.993       300
+   macro avg      0.993     0.993     0.993       300
+weighted avg      0.993     0.993     0.993       300
+
+--------------------
+--- Layer 26 ---
+Test Accuracy: 0.9900
+F1-Score Class 0: 0.9851
+F1-Score Class 1: 0.9849
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.980     0.990     0.985       100
+   b+a (a>b)      0.990     0.980     0.985       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.990       300
+   macro avg      0.990     0.990     0.990       300
+weighted avg      0.990     0.990     0.990       300
+
+--------------------
+--- Layer 27 ---
+Test Accuracy: 0.9967
+F1-Score Class 0: 0.9950
+F1-Score Class 1: 0.9950
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.990     1.000     0.995       100
+   b+a (a>b)      1.000     0.990     0.995       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.997       300
+   macro avg      0.997     0.997     0.997       300
+weighted avg      0.997     0.997     0.997       300
+
+--------------------
+--- Layer 28 ---
+Test Accuracy: 0.9933
+F1-Score Class 0: 0.9901
+F1-Score Class 1: 0.9899
+F1-Score Class 2: 1.0000
+Classification Report:
+              precision    recall  f1-score   support
+
+   a+b (a>b)      0.980     1.000     0.990       100
+   b+a (a>b)      1.000     0.980     0.990       100
+   a+a (a=b)      1.000     1.000     1.000       100
+
+    accuracy                          0.993       300
+   macro avg      0.993     0.993     0.993       300
+weighted avg      0.993     0.993     0.993       300
+
+--------------------

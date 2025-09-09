@@ -1,0 +1,667 @@
+--- Layer 0 ---
+ADDITION Test Accuracy: 0.1224
+Cross-Task Accuracy (Mult): 0.0780
+Cross-Task Accuracy (Sub): 0.0780
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.120     1.000     0.215       125
+     Digit 1      0.650     0.104     0.179       125
+     Digit 2      0.079     0.120     0.095       125
+     Digit 3      0.000     0.000     0.000       125
+     Digit 4      0.000     0.000     0.000       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.000     0.000     0.000       125
+     Digit 7      0.000     0.000     0.000       125
+     Digit 8      0.000     0.000     0.000       125
+     Digit 9      0.000     0.000     0.000       125
+
+    accuracy                          0.122      1250
+   macro avg      0.085     0.122     0.049      1250
+weighted avg      0.085     0.122     0.049      1250
+
+--------------------
+--- Layer 1 ---
+ADDITION Test Accuracy: 0.1240
+Cross-Task Accuracy (Mult): 0.0980
+Cross-Task Accuracy (Sub): 0.0240
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.190     0.088     0.120       125
+     Digit 1      0.778     0.056     0.104       125
+     Digit 2      0.000     0.000     0.000       125
+     Digit 3      0.000     0.000     0.000       125
+     Digit 4      0.167     0.016     0.029       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.138     0.192     0.161       125
+     Digit 7      0.125     0.008     0.015       125
+     Digit 8      0.000     0.000     0.000       125
+     Digit 9      0.112     0.880     0.199       125
+
+    accuracy                          0.124      1250
+   macro avg      0.151     0.124     0.063      1250
+weighted avg      0.151     0.124     0.063      1250
+
+--------------------
+--- Layer 2 ---
+ADDITION Test Accuracy: 0.1352
+Cross-Task Accuracy (Mult): 0.0880
+Cross-Task Accuracy (Sub): 0.2200
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.124     0.840     0.216       125
+     Digit 2      0.000     0.000     0.000       125
+     Digit 3      0.000     0.000     0.000       125
+     Digit 4      0.155     0.352     0.216       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.242     0.064     0.101       125
+     Digit 7      0.116     0.040     0.060       125
+     Digit 8      0.000     0.000     0.000       125
+     Digit 9      0.194     0.056     0.087       125
+
+    accuracy                          0.135      1250
+   macro avg      0.083     0.135     0.068      1250
+weighted avg      0.083     0.135     0.068      1250
+
+--------------------
+--- Layer 3 ---
+ADDITION Test Accuracy: 0.1392
+Cross-Task Accuracy (Mult): 0.0920
+Cross-Task Accuracy (Sub): 0.1240
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.149     0.744     0.248       125
+     Digit 2      0.000     0.000     0.000       125
+     Digit 3      0.000     0.000     0.000       125
+     Digit 4      1.000     0.008     0.016       125
+     Digit 5      0.135     0.184     0.156       125
+     Digit 6      0.000     0.000     0.000       125
+     Digit 7      0.175     0.056     0.085       125
+     Digit 8      0.123     0.400     0.188       125
+     Digit 9      0.000     0.000     0.000       125
+
+    accuracy                          0.139      1250
+   macro avg      0.158     0.139     0.069      1250
+weighted avg      0.158     0.139     0.069      1250
+
+--------------------
+--- Layer 4 ---
+ADDITION Test Accuracy: 0.1280
+Cross-Task Accuracy (Mult): 0.0740
+Cross-Task Accuracy (Sub): 0.1580
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.242     0.192     0.214       125
+     Digit 2      0.263     0.040     0.069       125
+     Digit 3      0.500     0.008     0.016       125
+     Digit 4      0.105     0.832     0.186       125
+     Digit 5      0.368     0.056     0.097       125
+     Digit 6      0.300     0.024     0.044       125
+     Digit 7      0.167     0.008     0.015       125
+     Digit 8      0.149     0.080     0.104       125
+     Digit 9      0.147     0.040     0.063       125
+
+    accuracy                          0.128      1250
+   macro avg      0.224     0.128     0.081      1250
+weighted avg      0.224     0.128     0.081      1250
+
+--------------------
+--- Layer 5 ---
+ADDITION Test Accuracy: 0.1568
+Cross-Task Accuracy (Mult): 0.1200
+Cross-Task Accuracy (Sub): 0.1700
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.210     0.104     0.139       125
+     Digit 1      1.000     0.080     0.148       125
+     Digit 2      0.128     0.832     0.222       125
+     Digit 3      0.500     0.008     0.016       125
+     Digit 4      0.205     0.072     0.107       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.180     0.240     0.205       125
+     Digit 7      0.224     0.120     0.156       125
+     Digit 8      0.167     0.112     0.134       125
+     Digit 9      0.000     0.000     0.000       125
+
+    accuracy                          0.157      1250
+   macro avg      0.261     0.157     0.113      1250
+weighted avg      0.261     0.157     0.113      1250
+
+--------------------
+--- Layer 6 ---
+ADDITION Test Accuracy: 0.1160
+Cross-Task Accuracy (Mult): 0.1500
+Cross-Task Accuracy (Sub): 0.0680
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.089     0.112     0.099       125
+     Digit 1      1.000     0.080     0.148       125
+     Digit 2      0.250     0.024     0.044       125
+     Digit 3      0.500     0.008     0.016       125
+     Digit 4      0.200     0.008     0.015       125
+     Digit 5      0.101     0.816     0.180       125
+     Digit 6      0.000     0.000     0.000       125
+     Digit 7      0.333     0.016     0.031       125
+     Digit 8      0.282     0.088     0.134       125
+     Digit 9      0.111     0.008     0.015       125
+
+    accuracy                          0.116      1250
+   macro avg      0.287     0.116     0.068      1250
+weighted avg      0.287     0.116     0.068      1250
+
+--------------------
+--- Layer 7 ---
+ADDITION Test Accuracy: 0.1960
+Cross-Task Accuracy (Mult): 0.1920
+Cross-Task Accuracy (Sub): 0.0840
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.172     0.912     0.289       125
+     Digit 1      1.000     0.120     0.214       125
+     Digit 2      0.400     0.048     0.086       125
+     Digit 3      0.500     0.032     0.060       125
+     Digit 4      0.130     0.096     0.111       125
+     Digit 5      0.213     0.080     0.116       125
+     Digit 6      0.360     0.072     0.120       125
+     Digit 7      0.196     0.592     0.294       125
+     Digit 8      0.167     0.008     0.015       125
+     Digit 9      0.000     0.000     0.000       125
+
+    accuracy                          0.196      1250
+   macro avg      0.314     0.196     0.131      1250
+weighted avg      0.314     0.196     0.131      1250
+
+--------------------
+--- Layer 8 ---
+ADDITION Test Accuracy: 0.1616
+Cross-Task Accuracy (Mult): 0.1440
+Cross-Task Accuracy (Sub): 0.1080
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.893     0.200     0.327       125
+     Digit 2      0.000     0.000     0.000       125
+     Digit 3      0.387     0.232     0.290       125
+     Digit 4      0.000     0.000     0.000       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.163     0.064     0.092       125
+     Digit 7      0.000     0.000     0.000       125
+     Digit 8      0.141     0.264     0.184       125
+     Digit 9      0.124     0.856     0.217       125
+
+    accuracy                          0.162      1250
+   macro avg      0.171     0.162     0.111      1250
+weighted avg      0.171     0.162     0.111      1250
+
+--------------------
+--- Layer 9 ---
+ADDITION Test Accuracy: 0.1976
+Cross-Task Accuracy (Mult): 0.1780
+Cross-Task Accuracy (Sub): 0.1220
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.200     0.464     0.280       125
+     Digit 1      0.369     0.248     0.297       125
+     Digit 2      0.172     0.184     0.178       125
+     Digit 3      0.231     0.048     0.079       125
+     Digit 4      0.235     0.184     0.206       125
+     Digit 5      0.124     0.464     0.196       125
+     Digit 6      0.000     0.000     0.000       125
+     Digit 7      0.000     0.000     0.000       125
+     Digit 8      0.269     0.168     0.207       125
+     Digit 9      0.380     0.216     0.276       125
+
+    accuracy                          0.198      1250
+   macro avg      0.198     0.198     0.172      1250
+weighted avg      0.198     0.198     0.172      1250
+
+--------------------
+--- Layer 10 ---
+ADDITION Test Accuracy: 0.2096
+Cross-Task Accuracy (Mult): 0.1540
+Cross-Task Accuracy (Sub): 0.0640
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.192     0.680     0.299       125
+     Digit 1      0.277     0.144     0.189       125
+     Digit 2      0.189     0.056     0.086       125
+     Digit 3      0.196     0.088     0.122       125
+     Digit 4      0.262     0.136     0.179       125
+     Digit 5      0.091     0.008     0.015       125
+     Digit 6      0.167     0.416     0.238       125
+     Digit 7      0.202     0.176     0.188       125
+     Digit 8      0.310     0.352     0.330       125
+     Digit 9      0.500     0.040     0.074       125
+
+    accuracy                          0.210      1250
+   macro avg      0.239     0.210     0.172      1250
+weighted avg      0.239     0.210     0.172      1250
+
+--------------------
+--- Layer 11 ---
+ADDITION Test Accuracy: 0.2208
+Cross-Task Accuracy (Mult): 0.1140
+Cross-Task Accuracy (Sub): 0.0840
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.231     0.448     0.305       125
+     Digit 1      0.239     0.360     0.288       125
+     Digit 2      0.375     0.048     0.085       125
+     Digit 3      0.391     0.144     0.211       125
+     Digit 4      0.165     0.608     0.260       125
+     Digit 5      0.500     0.040     0.074       125
+     Digit 6      0.202     0.152     0.174       125
+     Digit 7      0.292     0.224     0.253       125
+     Digit 8      0.229     0.176     0.199       125
+     Digit 9      0.500     0.008     0.016       125
+
+    accuracy                          0.221      1250
+   macro avg      0.313     0.221     0.186      1250
+weighted avg      0.313     0.221     0.186      1250
+
+--------------------
+--- Layer 12 ---
+ADDITION Test Accuracy: 0.2576
+Cross-Task Accuracy (Mult): 0.1400
+Cross-Task Accuracy (Sub): 0.0620
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.283     0.504     0.362       125
+     Digit 1      0.347     0.264     0.300       125
+     Digit 2      0.164     0.072     0.100       125
+     Digit 3      0.197     0.648     0.302       125
+     Digit 4      0.274     0.136     0.182       125
+     Digit 5      0.500     0.056     0.101       125
+     Digit 6      0.333     0.104     0.159       125
+     Digit 7      0.265     0.640     0.375       125
+     Digit 8      0.350     0.056     0.097       125
+     Digit 9      0.414     0.096     0.156       125
+
+    accuracy                          0.258      1250
+   macro avg      0.313     0.258     0.213      1250
+weighted avg      0.313     0.258     0.213      1250
+
+--------------------
+--- Layer 13 ---
+ADDITION Test Accuracy: 0.2176
+Cross-Task Accuracy (Mult): 0.1480
+Cross-Task Accuracy (Sub): 0.0620
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.526     0.160     0.245       125
+     Digit 2      0.218     0.504     0.304       125
+     Digit 3      0.157     0.416     0.228       125
+     Digit 4      0.750     0.024     0.047       125
+     Digit 5      0.221     0.168     0.191       125
+     Digit 6      0.248     0.272     0.260       125
+     Digit 7      0.333     0.064     0.107       125
+     Digit 8      0.210     0.528     0.300       125
+     Digit 9      0.333     0.040     0.071       125
+
+    accuracy                          0.218      1250
+   macro avg      0.300     0.218     0.175      1250
+weighted avg      0.300     0.218     0.175      1250
+
+--------------------
+--- Layer 14 ---
+ADDITION Test Accuracy: 0.2168
+Cross-Task Accuracy (Mult): 0.2040
+Cross-Task Accuracy (Sub): 0.0500
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.605     0.208     0.310       125
+     Digit 2      0.196     0.144     0.166       125
+     Digit 3      0.248     0.424     0.313       125
+     Digit 4      0.275     0.288     0.281       125
+     Digit 5      0.000     0.000     0.000       125
+     Digit 6      0.341     0.112     0.169       125
+     Digit 7      0.159     0.080     0.106       125
+     Digit 8      0.167     0.152     0.159       125
+     Digit 9      0.172     0.760     0.281       125
+
+    accuracy                          0.217      1250
+   macro avg      0.216     0.217     0.178      1250
+weighted avg      0.216     0.217     0.178      1250
+
+--------------------
+--- Layer 15 ---
+ADDITION Test Accuracy: 0.2248
+Cross-Task Accuracy (Mult): 0.1960
+Cross-Task Accuracy (Sub): 0.1620
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.000     0.000     0.000       125
+     Digit 1      0.307     0.432     0.359       125
+     Digit 2      0.146     0.600     0.235       125
+     Digit 3      0.333     0.008     0.016       125
+     Digit 4      0.348     0.064     0.108       125
+     Digit 5      0.209     0.320     0.253       125
+     Digit 6      0.227     0.040     0.068       125
+     Digit 7      0.284     0.640     0.393       125
+     Digit 8      0.400     0.112     0.175       125
+     Digit 9      0.800     0.032     0.062       125
+
+    accuracy                          0.225      1250
+   macro avg      0.305     0.225     0.167      1250
+weighted avg      0.305     0.225     0.167      1250
+
+--------------------
+--- Layer 16 ---
+ADDITION Test Accuracy: 0.2520
+Cross-Task Accuracy (Mult): 0.1500
+Cross-Task Accuracy (Sub): 0.0960
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.273     0.048     0.082       125
+     Digit 1      1.000     0.088     0.162       125
+     Digit 2      0.213     0.488     0.296       125
+     Digit 3      0.196     0.448     0.273       125
+     Digit 4      0.467     0.056     0.100       125
+     Digit 5      0.407     0.088     0.145       125
+     Digit 6      0.281     0.304     0.292       125
+     Digit 7      0.258     0.488     0.338       125
+     Digit 8      0.000     0.000     0.000       125
+     Digit 9      0.276     0.512     0.359       125
+
+    accuracy                          0.252      1250
+   macro avg      0.337     0.252     0.205      1250
+weighted avg      0.337     0.252     0.205      1250
+
+--------------------
+--- Layer 17 ---
+ADDITION Test Accuracy: 0.2224
+Cross-Task Accuracy (Mult): 0.1400
+Cross-Task Accuracy (Sub): 0.0760
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.667     0.016     0.031       125
+     Digit 1      0.427     0.280     0.338       125
+     Digit 2      0.329     0.192     0.242       125
+     Digit 3      0.400     0.160     0.229       125
+     Digit 4      0.242     0.296     0.266       125
+     Digit 5      0.433     0.104     0.168       125
+     Digit 6      0.129     0.672     0.216       125
+     Digit 7      0.409     0.072     0.122       125
+     Digit 8      0.333     0.112     0.168       125
+     Digit 9      0.278     0.320     0.297       125
+
+    accuracy                          0.222      1250
+   macro avg      0.365     0.222     0.208      1250
+weighted avg      0.365     0.222     0.208      1250
+
+--------------------
+--- Layer 18 ---
+ADDITION Test Accuracy: 0.2648
+Cross-Task Accuracy (Mult): 0.2160
+Cross-Task Accuracy (Sub): 0.1480
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.586     0.136     0.221       125
+     Digit 1      0.449     0.280     0.345       125
+     Digit 2      0.249     0.400     0.307       125
+     Digit 3      0.125     0.016     0.028       125
+     Digit 4      0.268     0.240     0.253       125
+     Digit 5      0.500     0.008     0.016       125
+     Digit 6      0.197     0.656     0.303       125
+     Digit 7      0.000     0.000     0.000       125
+     Digit 8      0.308     0.264     0.284       125
+     Digit 9      0.281     0.648     0.392       125
+
+    accuracy                          0.265      1250
+   macro avg      0.296     0.265     0.215      1250
+weighted avg      0.296     0.265     0.215      1250
+
+--------------------
+--- Layer 19 ---
+ADDITION Test Accuracy: 0.2944
+Cross-Task Accuracy (Mult): 0.2020
+Cross-Task Accuracy (Sub): 0.0660
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.475     0.384     0.425       125
+     Digit 1      0.792     0.152     0.255       125
+     Digit 2      0.202     0.744     0.318       125
+     Digit 3      0.366     0.208     0.265       125
+     Digit 4      0.321     0.072     0.118       125
+     Digit 5      0.256     0.432     0.321       125
+     Digit 6      0.000     0.000     0.000       125
+     Digit 7      0.311     0.592     0.408       125
+     Digit 8      0.385     0.336     0.359       125
+     Digit 9      0.429     0.024     0.045       125
+
+    accuracy                          0.294      1250
+   macro avg      0.354     0.294     0.251      1250
+weighted avg      0.354     0.294     0.251      1250
+
+--------------------
+--- Layer 20 ---
+ADDITION Test Accuracy: 0.3136
+Cross-Task Accuracy (Mult): 0.2100
+Cross-Task Accuracy (Sub): 0.0720
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.445     0.520     0.480       125
+     Digit 1      0.398     0.408     0.403       125
+     Digit 2      0.273     0.216     0.241       125
+     Digit 3      0.219     0.528     0.310       125
+     Digit 4      0.267     0.160     0.200       125
+     Digit 5      0.308     0.032     0.058       125
+     Digit 6      0.316     0.288     0.301       125
+     Digit 7      0.424     0.200     0.272       125
+     Digit 8      0.291     0.616     0.395       125
+     Digit 9      0.420     0.168     0.240       125
+
+    accuracy                          0.314      1250
+   macro avg      0.336     0.314     0.290      1250
+weighted avg      0.336     0.314     0.290      1250
+
+--------------------
+--- Layer 21 ---
+ADDITION Test Accuracy: 0.2904
+Cross-Task Accuracy (Mult): 0.1380
+Cross-Task Accuracy (Sub): 0.1960
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.308     0.784     0.442       125
+     Digit 1      0.417     0.360     0.386       125
+     Digit 2      0.371     0.184     0.246       125
+     Digit 3      0.251     0.360     0.296       125
+     Digit 4      0.211     0.464     0.290       125
+     Digit 5      0.271     0.232     0.250       125
+     Digit 6      0.500     0.040     0.074       125
+     Digit 7      0.341     0.224     0.271       125
+     Digit 8      0.304     0.224     0.258       125
+     Digit 9      0.235     0.032     0.056       125
+
+    accuracy                          0.290      1250
+   macro avg      0.321     0.290     0.257      1250
+weighted avg      0.321     0.290     0.257      1250
+
+--------------------
+--- Layer 22 ---
+ADDITION Test Accuracy: 0.3632
+Cross-Task Accuracy (Mult): 0.0480
+Cross-Task Accuracy (Sub): 0.0940
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.522     0.280     0.365       125
+     Digit 1      0.629     0.176     0.275       125
+     Digit 2      0.316     0.776     0.449       125
+     Digit 3      0.388     0.152     0.218       125
+     Digit 4      0.582     0.368     0.451       125
+     Digit 5      0.432     0.328     0.373       125
+     Digit 6      0.293     0.136     0.186       125
+     Digit 7      0.300     0.656     0.412       125
+     Digit 8      0.281     0.416     0.335       125
+     Digit 9      0.422     0.344     0.379       125
+
+    accuracy                          0.363      1250
+   macro avg      0.416     0.363     0.344      1250
+weighted avg      0.416     0.363     0.344      1250
+
+--------------------
+--- Layer 23 ---
+ADDITION Test Accuracy: 0.4864
+Cross-Task Accuracy (Mult): 0.1260
+Cross-Task Accuracy (Sub): 0.1480
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.591     0.440     0.505       125
+     Digit 1      0.580     0.640     0.608       125
+     Digit 2      0.683     0.448     0.541       125
+     Digit 3      0.570     0.456     0.507       125
+     Digit 4      0.512     0.496     0.504       125
+     Digit 5      0.401     0.520     0.453       125
+     Digit 6      0.467     0.632     0.537       125
+     Digit 7      0.365     0.648     0.467       125
+     Digit 8      0.426     0.392     0.408       125
+     Digit 9      0.500     0.192     0.277       125
+
+    accuracy                          0.486      1250
+   macro avg      0.510     0.486     0.481      1250
+weighted avg      0.510     0.486     0.481      1250
+
+--------------------
+--- Layer 24 ---
+ADDITION Test Accuracy: 0.7592
+Cross-Task Accuracy (Mult): 0.2440
+Cross-Task Accuracy (Sub): 0.4140
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.850     0.904     0.876       125
+     Digit 1      0.845     0.744     0.791       125
+     Digit 2      0.734     0.904     0.810       125
+     Digit 3      0.940     0.504     0.656       125
+     Digit 4      0.567     0.848     0.679       125
+     Digit 5      0.582     0.512     0.545       125
+     Digit 6      0.853     0.744     0.795       125
+     Digit 7      0.967     0.696     0.809       125
+     Digit 8      0.648     0.944     0.769       125
+     Digit 9      0.917     0.792     0.850       125
+
+    accuracy                          0.759      1250
+   macro avg      0.790     0.759     0.758      1250
+weighted avg      0.790     0.759     0.758      1250
+
+--------------------
+--- Layer 25 ---
+ADDITION Test Accuracy: 0.8296
+Cross-Task Accuracy (Mult): 0.4140
+Cross-Task Accuracy (Sub): 0.6160
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.929     0.936     0.932       125
+     Digit 1      0.969     0.760     0.852       125
+     Digit 2      0.838     0.912     0.874       125
+     Digit 3      0.902     0.808     0.852       125
+     Digit 4      0.660     0.840     0.739       125
+     Digit 5      0.734     0.816     0.773       125
+     Digit 6      0.872     0.760     0.812       125
+     Digit 7      0.765     0.832     0.797       125
+     Digit 8      0.926     0.696     0.795       125
+     Digit 9      0.830     0.936     0.880       125
+
+    accuracy                          0.830      1250
+   macro avg      0.842     0.830     0.831      1250
+weighted avg      0.842     0.830     0.831      1250
+
+--------------------
+--- Layer 26 ---
+ADDITION Test Accuracy: 0.8632
+Cross-Task Accuracy (Mult): 0.5240
+Cross-Task Accuracy (Sub): 0.7160
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.879     0.992     0.932       125
+     Digit 1      0.940     0.872     0.905       125
+     Digit 2      0.904     0.904     0.904       125
+     Digit 3      0.897     0.904     0.900       125
+     Digit 4      0.970     0.776     0.862       125
+     Digit 5      0.695     0.968     0.809       125
+     Digit 6      0.874     0.832     0.852       125
+     Digit 7      0.978     0.712     0.824       125
+     Digit 8      0.708     0.952     0.812       125
+     Digit 9      1.000     0.720     0.837       125
+
+    accuracy                          0.863      1250
+   macro avg      0.885     0.863     0.864      1250
+weighted avg      0.885     0.863     0.864      1250
+
+--------------------
+--- Layer 27 ---
+ADDITION Test Accuracy: 0.8752
+Cross-Task Accuracy (Mult): 0.5700
+Cross-Task Accuracy (Sub): 0.7440
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.912     1.000     0.954       125
+     Digit 1      0.943     0.920     0.931       125
+     Digit 2      0.902     0.888     0.895       125
+     Digit 3      0.923     0.768     0.838       125
+     Digit 4      0.742     0.920     0.821       125
+     Digit 5      0.715     0.864     0.783       125
+     Digit 6      0.848     0.848     0.848       125
+     Digit 7      0.954     0.832     0.889       125
+     Digit 8      0.923     0.864     0.893       125
+     Digit 9      0.991     0.848     0.914       125
+
+    accuracy                          0.875      1250
+   macro avg      0.885     0.875     0.877      1250
+weighted avg      0.885     0.875     0.877      1250
+
+--------------------
+--- Layer 28 ---
+ADDITION Test Accuracy: 0.8880
+Cross-Task Accuracy (Mult): 0.5540
+Cross-Task Accuracy (Sub): 0.6960
+ADDITION Classification Report:
+              precision    recall  f1-score   support
+
+     Digit 0      0.975     0.952     0.964       125
+     Digit 1      0.939     0.856     0.895       125
+     Digit 2      0.871     0.920     0.895       125
+     Digit 3      0.817     0.928     0.869       125
+     Digit 4      0.830     0.896     0.862       125
+     Digit 5      0.942     0.784     0.856       125
+     Digit 6      0.927     0.816     0.868       125
+     Digit 7      0.793     0.952     0.865       125
+     Digit 8      0.880     0.880     0.880       125
+     Digit 9      0.966     0.896     0.929       125
+
+    accuracy                          0.888      1250
+   macro avg      0.894     0.888     0.888      1250
+weighted avg      0.894     0.888     0.888      1250
+
+--------------------
